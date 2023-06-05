@@ -6,11 +6,14 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClimbingApi/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClimbingApi/Models/ClimberProfile.cs">
     <Files>
-      <File FileName="ClimbingApi/Program.cs" Line="5" Column="25" />
-      <File FileName="ClimbingApi/appsettings.json" Line="12" Column="31" />
-      <File FileName="ClimbingApi/ClimbingDatabaseSettings.cs" Line="4" Column="1" />
+      <File FileName="ClimbingApi/Program.cs" Line="14" Column="56" />
+      <File FileName="ClimbingApi/Models/ClimbingDatabaseSettings.cs" Line="6" Column="26" />
+      <File FileName="ClimbingApi/Services/ClimberProfileServices.cs" Line="31" Column="1" />
+      <File FileName="ClimbingApi/Controllers/ClimberProfileController.cs" Line="32" Column="62" />
+      <File FileName="ClimbingApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="ClimbingApi/Models/ClimberProfile.cs" Line="10" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,9 +21,11 @@
           <Node name="ClimbingApi" expanded="True">
             <Node name="ClimbingApi" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ClimberProfile.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
